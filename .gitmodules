@@ -1,0 +1,3 @@
+[submodule "psi-slon"]
+	path = psi-slon
+	url = ../../kuzmin-ilya/psi-slon
