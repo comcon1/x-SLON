@@ -26,8 +26,7 @@ There is at least one solid opensource solution: PulsePal (https://sanworks.io/s
 1.1. Pulse frequency: 1 - 10000 Hz
 1.1. Number of pulses per train: up to  10000
 1.1. Pulse train frequency: 1 - 10000 Hz
-1.1.Rise time: < 1 us
-
+1.1. Rise time: < 1 us
 1. Software-defined USB interface (USB 1.1 compliant)
 1. Power supply: 5V via  USB
 1. Temperature range: 0 – +40 С
@@ -47,9 +46,8 @@ It is the most compact stimulator with digital output. One can use psi-SLON to c
 
 Research papers which make use of psi-SLON:
 
-1.Borzykh, A. A., Kuz’min, I. V., Lysenko, E. A., Sharova, A. P., Tarasova, O. S., & Vinogradova, O. L. (2017). Measures of Growth Processes and Myogenesis in Glycolytic and Oxidative Muscle Fibers in Rats after Indirect Electrical Stimulation. Neuroscience and Behavioral Physiology, 47(3), 352-358.
-
-2. D. Abramochkin, S. Tapilina, and M. Vornanen. A new potassium ion current induced by stimulation of m2-cholinoreceptors in fish atrial myocytes. Journal of Experimental Biology, 217(Pt 10):1745–1751, 2014.
+1. Borzykh, A. A., Kuz’min, I. V., Lysenko, E. A., Sharova, A. P., Tarasova, O. S., & Vinogradova, O. L. (2017). Measures of Growth Processes and Myogenesis in Glycolytic and Oxidative Muscle Fibers in Rats after Indirect Electrical Stimulation. Neuroscience and Behavioral Physiology, 47(3), 352-358.
+1. D. Abramochkin, S. Tapilina, and M. Vornanen. A new potassium ion current induced by stimulation of m2-cholinoreceptors in fish atrial myocytes. Journal of Experimental Biology, 217(Pt 10):1745–1751, 2014.
 
 ## U-SLON
 
