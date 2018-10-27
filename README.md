@@ -21,14 +21,17 @@ There is at least one solid opensource solution: PulsePal (https://sanworks.io/s
 
 ## Common characteristics
 
-1. Time parameters
-1.1. Pulse width: 0.1 ms - 1000 mc
-1.1. Pulse frequency: 1 - 10000 Hz
-1.1. Number of pulses per train: up to  10000
-1.1. Pulse train frequency: 1 - 10000 Hz
-1.1. Rise time: < 1 us
+1. Time parameters:
+    - Pulse width: 0.1 ms - 1000 ms
+    - Pulse frequency: 1 - 10000 Hz
+    - Number of pulses per train: up to  10000
+    - Pulse train frequency: 1 - 10000 Hz
+    - Rise time: < 1 us
+
 1. Software-defined USB interface (USB 1.1 compliant)
+
 1. Power supply: 5V via  USB
+
 1. Temperature range: 0 – +40 С
 
 
@@ -38,16 +41,23 @@ It is the most compact stimulator with digital output. One can use psi-SLON to c
 
 ### psi-SLON specifications
 
-1. An amplitude of output impulses: +5В
+1. An amplitude of output impulses: +5V
+
 1. Output resistance: 5 kOhm
+
 1. Size: 45x25x10 mm
+
 1. Output socket: DB-9F
+
 1. Input socket: mini-USB
 
 Research papers which make use of psi-SLON:
 
-1. Borzykh, A. A., Kuz’min, I. V., Lysenko, E. A., Sharova, A. P., Tarasova, O. S., & Vinogradova, O. L. (2017). Measures of Growth Processes and Myogenesis in Glycolytic and Oxidative Muscle Fibers in Rats after Indirect Electrical Stimulation. Neuroscience and Behavioral Physiology, 47(3), 352-358.
-1. D. Abramochkin, S. Tapilina, and M. Vornanen. A new potassium ion current induced by stimulation of m2-cholinoreceptors in fish atrial myocytes. Journal of Experimental Biology, 217(Pt 10):1745–1751, 2014.
+1. Borzykh, A. A., Kuz’min, I. V., Lysenko, E. A., Sharova, A. P., Tarasova, O. S., & Vinogradova, O. L. (2017). 
+Measures of Growth Processes and Myogenesis in Glycolytic and Oxidative Muscle Fibers in Rats after Indirect Electrical Stimulation. Neuroscience and Behavioral Physiology, 47(3), 352-358.
+
+1. Abramochkin, D., Tapilina, S., Vornanen, M. (2014) A new potassium ion current induced by stimulation of m2-cholinoreceptors 
+in fish atrial myocytes. Journal of Experimental Biology, 217(Pt 10):1745–1751.
 
 ## U-SLON
 
@@ -56,11 +66,17 @@ U-SLON generates pulses of fixed voltage in a range 0-8 V. In a series all pulse
 ### U-SLON specifications
 
 1. Output voltage: 0-8 V
+
 1. Output current: 0-200 mA
+
 1. Defence from short-circuit.
+
 1. Precision of output voltage: 10 bit
+
 1. Size: 80x120x35
+
 1. Output socket: Jack 6.5 mm
+
 1. Input socket: USB-B
 
 ## I-SLON
