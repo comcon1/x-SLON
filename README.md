@@ -59,6 +59,8 @@ Measures of Growth Processes and Myogenesis in Glycolytic and Oxidative Muscle F
 1. Abramochkin, D., Tapilina, S., Vornanen, M. (2014) A new potassium ion current induced by stimulation of m2-cholinoreceptors 
 in fish atrial myocytes. Journal of Experimental Biology, 217(Pt 10):1745–1751.
 
+See [psi-slon project](https://github.com/kuzmin-ilya/u-slon) for details.
+
 ## U-SLON
 
 U-SLON generates pulses of fixed voltage in a range 0-8 V. In a series all pulses have the same amplitude. The same GUI is used for stimulation control. 
@@ -79,6 +81,8 @@ U-SLON generates pulses of fixed voltage in a range 0-8 V. In a series all pulse
 
 1. Input socket: USB-B
 
+See [u-slon project](https://github.com/kuzmin-ilya/u-slon) for details.
+
 ## I-SLON
 
 I-SLON generates pulses of fixed current in a range 0-100 mA with maximum voltage of 8 V. In a series all pulses have the same amplitude. The same GUI is used for stimulation control. 
@@ -89,3 +93,22 @@ This model is currently under development.
 
 The main window of _guiSLON_ is shown in the Figure. The program has a simple interface and allows a user to set a pulse period, pulse width, number of pulses per train and train period.
 The user can select between single pulse train and periodic pulse trains by pressing either the “Single” or the "Start" button.
+
+![guiSLON features](visual/slon_soft.jpg)
+
+See [esl project](https://github.com/pmamonov/esl) for details.
+
+## Licensing
+
+Different parts of x-SLON are released under different licenses and can
+be regarded as separated projects. Circuits and packaging is released under
+CC-BY AS and software - under GNU GPL. In fact one can use only hardware and
+make own software or vice versa because these parts are rather independent.
+
+See detailed licensing information in every project.
+
+## Authors
+
+Ilya Kuzmin<kuzmin.ilya@gmail.com>
+Peter Mamonov<pmamonov@gmail.com>
+Alexey Nesterenko<comcon1@protonmail.com>
