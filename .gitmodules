@@ -1,3 +1,9 @@
 [submodule "psi-slon"]
 	path = psi-slon
 	url = ../../kuzmin-ilya/psi-slon
+[submodule "u-slon"]
+	path = u-slon
+	url = ../../kuzmin-ilya/u-slon
+[submodule "esl-software"]
+	path = esl-software
+	url = ../../pmamonov/esl
