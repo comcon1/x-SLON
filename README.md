@@ -109,6 +109,6 @@ See detailed licensing information in every project.
 
 ## Authors
 
-Ilya Kuzmin<kuzmin.ilya@gmail.com>
-Peter Mamonov<pmamonov@gmail.com>
-Alexey Nesterenko<comcon1@protonmail.com>
+Ilya Kuzmin <kuzmin.ilya@gmail.com>  
+Peter Mamonov <pmamonov@gmail.com>  
+Alexey Nesterenko <comcon1@protonmail.com>  
